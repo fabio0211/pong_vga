@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk_adc'
+Slack : -892.320
+TNS   : -10707.152
+
+Type  : Slow 1200mV 85C Model Setup 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : -11.489
+TNS   : -67.011
+
+Type  : Slow 1200mV 85C Model Setup 'hw_image_generator:inst2|clk_i'
+Slack : -10.997
+TNS   : -1957.917
+
+Type  : Slow 1200mV 85C Model Setup 'p11'
+Slack : -4.719
+TNS   : -64.976
+
+Type  : Slow 1200mV 85C Model Hold 'hw_image_generator:inst2|clk_i'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_adc'
+Slack : 0.347
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'p11'
+Slack : 0.638
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : 6.023
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'p11'
+Slack : -3.000
+TNS   : -49.299
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'hw_image_generator:inst2|clk_i'
+Slack : -1.403
+TNS   : -290.421
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : 4.575
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_adc'
+Slack : 4.580
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk_adc'
+Slack : -884.211
+TNS   : -10609.928
+
+Type  : Slow 1200mV 0C Model Setup 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : -10.001
+TNS   : -58.492
+
+Type  : Slow 1200mV 0C Model Setup 'hw_image_generator:inst2|clk_i'
+Slack : -9.902
+TNS   : -1765.905
+
+Type  : Slow 1200mV 0C Model Setup 'p11'
+Slack : -4.319
+TNS   : -55.702
+
+Type  : Slow 1200mV 0C Model Hold 'hw_image_generator:inst2|clk_i'
+Slack : 0.295
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_adc'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'p11'
+Slack : 0.591
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : 4.668
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'p11'
+Slack : -3.000
+TNS   : -49.299
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'hw_image_generator:inst2|clk_i'
+Slack : -1.403
+TNS   : -290.421
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_adc'
+Slack : 4.605
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : 4.631
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk_adc'
+Slack : -844.199
+TNS   : -10130.072
+
+Type  : Fast 1200mV 0C Model Setup 'hw_image_generator:inst2|clk_i'
+Slack : -3.887
+TNS   : -702.338
+
+Type  : Fast 1200mV 0C Model Setup 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : -3.860
+TNS   : -22.036
+
+Type  : Fast 1200mV 0C Model Setup 'p11'
+Slack : -1.500
+TNS   : -7.990
+
+Type  : Fast 1200mV 0C Model Hold 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : -0.225
+TNS   : -0.238
+
+Type  : Fast 1200mV 0C Model Hold 'hw_image_generator:inst2|clk_i'
+Slack : 0.144
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_adc'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'p11'
+Slack : 0.246
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'p11'
+Slack : -3.000
+TNS   : -37.201
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'hw_image_generator:inst2|clk_i'
+Slack : -1.000
+TNS   : -207.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_adc'
+Slack : 4.408
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst2|adc1|adc_mega_0|ADC_CTRL|adc_pll|auto_generated|pll1|clk[0]'
+Slack : 4.903
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,1 @@
+Warning (10273): Verilog HDL warning at altera_modular_adc_control_fsm.v(718): extended using "x" or "z" File: C:/intelFPGA_lite/20.1/Projects/pong_vga/unnamed/synthesis/submodules/altera_modular_adc_control_fsm.v Line: 718

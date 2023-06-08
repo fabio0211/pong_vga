@@ -1,0 +1,18 @@
+Fitter Status : Successful - Thu Jun 08 15:47:08 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : pong_vga
+Top-level Entity Name : pong_vga
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 1,719 / 49,760 ( 3 % )
+    Total combinational functions : 1,677 / 49,760 ( 3 % )
+    Dedicated logic registers : 393 / 49,760 ( < 1 % )
+Total registers : 393
+Total pins : 37 / 360 ( 10 % )
+Total virtual pins : 0
+Total memory bits : 768 / 1,677,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 1 / 2 ( 50 % )
