@@ -4,4 +4,4 @@ This repository contains a VHDL version of the well known pong game developed on
 - Basciani Andrea
 - Bux Luca
 - de Giosa Fabio
-and supervised by Professor Martino De Carlo
+And supervised by Professor Martino De Carlo
